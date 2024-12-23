@@ -2,3 +2,4 @@ I started plactice git.
 I learn about basic workflow.
 ・git add
 ・git commit
+・git rm
